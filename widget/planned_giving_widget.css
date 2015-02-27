@@ -1,0 +1,51 @@
+
+/* -------------------------------------------------------------------- 
+Planned Giving Widget -- Customize as needed to suit your site styles
+-------------------------------------------------------------------- */
+
+	#planned_giving_widget {
+	 background: #ffeabb;
+  display: block;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-bottom: 2em;
+	}
+	#planned_giving_pullquote_start {
+	 background: #2e0e3e;
+		color: #ed3990;
+		font-size: 1.4em;
+		font-weight: 600;
+		padding: 12px 10px 8px 10px;
+		}
+	#planned_giving_body {
+		background: #ffeabb;
+		background-image: url('images/plates_bg.png');
+		background-repeat: no-repeat;
+		background-position: 100% 140%; 
+		font-size: 1.1em;
+		font-weight: 500;
+		line-height: 1.4em;
+		margin-top: .6em;
+	}
+	#planned_giving_top_text {
+	 margin: 0 14px;
+	 color: #000;
+	}
+	#planned_giving_bottom_text {
+	 margin: 14px;
+	 color: #6c1b78;
+	}	
+	#planned_giving_link {
+	 background: #6c1b78;
+	 margin-top: 14px;
+	 color: #fff;
+	 font-size: 1.4em;
+	 padding: 10px;
+	 text-align: center;
+	}
+	#planned_giving_link a {
+	 color: #fff;
+	 text-decoration:none;
+	}
+	#planned_giving_link a:hover {
+	 color: #ddd; /* change this color if you wish to match your site hover styles */
+	}	
